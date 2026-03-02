@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">AI systems | Cybersecurity | Robotics | Game Development</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliaalq&label=Profile%20views&color=0e75b6&style=flat" alt="juliaalq" /> </p>
 
